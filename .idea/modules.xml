@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java8DataProcessingStreams.iml" filepath="$PROJECT_DIR$/Java8DataProcessingStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spliterator/Spliterator.iml" filepath="$PROJECT_DIR$/Spliterator/Spliterator.iml" />
+    </modules>
+  </component>
+</project>
